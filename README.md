@@ -30,7 +30,7 @@ Full-stack application for managing job offers, built with Spring Boot and React
 ### Backend
 
 1. Create PostgreSQL database
-2. Copy `application.properties.example` to `application.properties`
+2. Create your own application.properties - it should connect to database
 3. Fill in your database credentials
 4. Run `JobApp2Application.java`
 
